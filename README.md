@@ -9,7 +9,7 @@ Subir um projeto, de tema livre, desenvolvido no React.
 * O projeto deve ser feito no IDE VS Code
 
 ## Por que escolhi fazer um website que contém um cronômetro?
-Para poder treinar Javascript e relembrar conhecimentos de HTML e CSS. Além disso também foi possível treinar a criação de layout no Figma. 
+Para poder treinar JavaScript e relembrar conhecimentos de HTML e CSS. Além disso, também foi possível treinar a criação de layout no Figma. 
 
 ## Layout do website desenvolvido no Figma
 ![image](https://github.com/Lyslen-Miranda/lyslen/assets/147668425/c51cac8c-eb6a-4fef-950c-a345acba4c90)
