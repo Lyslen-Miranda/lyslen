@@ -12,7 +12,7 @@ Subir um projeto, de tema livre, desenvolvido no React.
 Para poder treinar Javascript e relembrar conhecimentos de HTML e CSS. Além disso também foi possível treinar a criação de layout no Figma. 
 
 ## Layout do website desenvolvido no Figma
-![image](https://github.com/Lyslen-Miranda/lyslen/assets/147668425/3c233230-882f-4f8e-a45f-3c2f8b7c42b6)
+![image](https://github.com/Lyslen-Miranda/lyslen/assets/147668425/c51cac8c-eb6a-4fef-950c-a345acba4c90)
 
 ## Vídeo do projeto finalizado
 [Preview site.webm](https://github.com/Lyslen-Miranda/lyslen/assets/147668425/7c835927-0b5c-4420-9b8b-9fcf02176b4a)
