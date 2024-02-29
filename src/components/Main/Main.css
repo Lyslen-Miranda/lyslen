@@ -1,0 +1,166 @@
+.sectionInicial {
+    background-color: #0047FF;
+    height: 85vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.iconCronometro {
+    height: 85vh;
+    position: absolute;
+    top: -25px;
+    left: -200px;
+}
+
+.boxInicio{
+    width: 40vw;
+    height: 15vh;
+    margin-bottom: 150px;
+    margin-left: 300px;
+}
+
+.nomeSite {
+    color: #00FFF0;
+    font-size: 70px;
+}
+
+.descricaoSite {
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 2.3vw;
+    margin-top: 8px;
+}
+
+.buttonRetornarAoTopo {
+    width: 50px;
+    font-size: 25px;
+    padding-bottom: 5px;
+    position: fixed;
+    right: 70px;
+    bottom: 50px;
+}
+
+#sectionCronometro {
+    height: 70vh;
+    background-color: #0047FF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.tituloSectionCronometro {
+    color: #00FFF0;
+    font-size: 55px;
+}
+
+.contagem {
+    color: #ffffff;
+    font-size: 100px;
+    font-weight: 600;
+    margin-top: 20px;
+}
+
+.medidaDeTempo {
+    color: #ffffff;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.boxButtons {
+width: 65vw;
+display: flex;
+justify-content: space-between;
+margin-top: 45px;
+}
+
+button {
+    background-color: #0047FF;
+    border-color: #ffffff;
+    border-radius: 10px;
+    border: 1px solid;
+    width: 15vw;
+    height: 45px;
+    color: #ffffff;
+    outline: none;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+button:hover {
+    border-color: #00FFF0;
+    background-color: #00ffee42;
+}
+
+@media (max-width: 1000px) and (min-width: 601px) {
+    .iconCronometro {
+        height: 65vh;
+    }
+    .boxInicio{
+        width: 40vw;
+        margin-bottom: 180px;
+        margin-left: 230px;
+    }
+    .nomeSite {
+        font-size: 45px;
+    }
+    
+    .descricaoSite {
+        font-size: 20px;
+        margin-top: 8px;
+    }
+    
+    .buttonRetornarAoTopo {
+        right: 50px;
+    }
+
+    .tituloSectionCronometro {
+        font-size: 45px;
+    }
+
+    .boxButtons {
+        width: 75vw;
+    }
+    
+    button {
+        width: 17vw;
+    }
+}
+
+@media (max-width: 600px) and (min-width: 201px) {
+    .iconCronometro {
+        height: 35vh;
+        top: -15px;
+        left: -100px;
+    }
+    .boxInicio{
+        width: 60vw;
+        margin-bottom: 150px;
+        margin-left: 50px;
+    }
+    .nomeSite {
+        font-size: 45px;
+    }
+    
+    .descricaoSite {
+        font-size: 20px;
+        margin-top: 8px;
+    }
+    
+    .buttonRetornarAoTopo {
+        right: 30px;
+    }
+
+    .tituloSectionCronometro {
+        font-size: 35px;
+    }
+
+    .boxButtons {
+        width: 78vw;
+    }
+    
+    button {
+        width: 18vw;
+    }
+}
