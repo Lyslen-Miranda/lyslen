@@ -8,7 +8,7 @@ Subir um projeto, de tema livre, desenvolvido no React.
 * O nome do projeto em React deve conter o nome do desenvolvedor
 * O projeto deve ser feito no IDE VS Code
 
-## Porque escolhi fazer um website que contém um cronômetro?
+## Por que escolhi fazer um website que contém um cronômetro?
 Para poder treinar Javascript e relembrar conhecimentos de HTML e CSS. Além disso também foi possível treinar a criação de layout no Figma. 
 
 ## Layout do website desenvolvido no Figma
