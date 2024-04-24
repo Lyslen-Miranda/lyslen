@@ -16,3 +16,6 @@ Para poder treinar JavaScript e relembrar conhecimentos de HTML e CSS. Além dis
 
 ## Vídeo do projeto finalizado
 [Preview site.webm](https://github.com/Lyslen-Miranda/lyslen/assets/147668425/7c835927-0b5c-4420-9b8b-9fcf02176b4a)
+
+## Link de navegação
+https://lyslen.vercel.app/
